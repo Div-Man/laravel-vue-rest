@@ -14,6 +14,14 @@
 
 
 ***
+Файлы использования API на фронте:
+
+https://github.com/Div-Man/laravel-vue-rest/blob/master/resources/views/product/partials/create.blade.php
+
+https://github.com/Div-Man/laravel-vue-rest/blob/master/resources/views/dashboard.blade.php
+***
+
+
 Для создания **REST**, использовался пакет **Sanctum**.
 
 Что бы можно было использовать **API** без использования токена, c помощью **axios**, нужно что бы в **app/Http/Kernel.php**, было прописано:
