@@ -56,6 +56,8 @@ VueJS подключён с помощью CDN, **Фронтенд** собир�
 7. ```sudo chmod -R 775 storage```
 8. ```sudo chmod -R ugo+rw storage```
 
+Зарегистрировать пользователя (подтверждать почту не нужно).
+
 ***
 Конфигурая Apache, которая использоватлась при разработке:
 
@@ -82,7 +84,14 @@ VueJS подключён с помощью CDN, **Фронтенд** собир�
 </VirtualHost>
 ```
 
-
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest1.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest2.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest3.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest4.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest5.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest6.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest7.png)
+![Alt text](https://github.com/Div-Man/laravel-vue-rest/blob/master/public/img/rest8.png)
 
 
 
