@@ -37,10 +37,10 @@ VueJS подключён с помощью CDN, **Фронтенд** собир�
 **folder** заменить на название папки
 
 1. ```git clone https://github.com/Div-Man/laravel-vue-rest.git folder```
-
-2. ```composer update```
-3. ```cp .env.example .env```
-4. ```php artisan key:generate```
+2. Перейти в папку с проектом.
+3. ```composer update```
+4. ```cp .env.example .env```
+5. ```php artisan key:generate```
 
 Если нужно наполнение базы продуктами, то выполнить команду:
 ```php artisan db:seed --class=DatabaseSeeder```
